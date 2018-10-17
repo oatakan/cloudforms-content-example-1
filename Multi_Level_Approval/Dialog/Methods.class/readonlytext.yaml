@@ -1,0 +1,12 @@
+---
+object_type: instance
+version: 1.0
+object:
+  attributes:
+    display_name: ReadOnlyText
+    name: ReadOnlyText
+    inherits: 
+    description: ReadOnlyText
+  fields:
+  - execute:
+      value: read_only_text

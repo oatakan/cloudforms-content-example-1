@@ -1,0 +1,12 @@
+---
+object_type: instance
+version: 1.0
+object:
+  attributes:
+    display_name: GenerateHostname
+    name: GenerateHostname
+    inherits: 
+    description: GenerateHostname
+  fields:
+  - execute:
+      value: generate_hostname
